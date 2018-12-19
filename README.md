@@ -1,4 +1,6 @@
-![Project Banner](/verminsouls_banner.png)
+![Project Banner](assets/verminsouls_banner.png)
+
+[![BANNERTAG](/assets/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a>
 # VERMIN SOULS - VIDEO ART PROJECT
