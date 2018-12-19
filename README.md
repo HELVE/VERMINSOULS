@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # VERMIN SOULS - VIDEO ART PROJECT
-Video art based on our darkest desires and vices. Shadowself exposed. The feeling that the little person inside me is shattered into pieces. Darkest self is usually hard to piece together. Fueled by emotion, passion and despair.
+Video art based on our darkest desires and vices. Shadowself exposed. The feeling that the little person inside me is shattered into pieces. Darkest self is usually hard to piece together. Fueled by emotion, passion and despair. Shattered double?
 
 Slow zoom out shot of hair floating in a glass water container, creating ripples. Lit up from below with green. 
 
