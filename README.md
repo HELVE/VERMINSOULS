@@ -1,4 +1,4 @@
-![Project Banner](/assets/template_visuals/temp-banner.png)
+![Project Banner](/verminsouls_banner.png)
 
 <a name="intro"></a>
 # VERMIN SOULS - VIDEO ART PROJECT
