@@ -6,15 +6,15 @@
 # VERMIN SOULS - VIDEO ART PROJECT
 Video art based on our darkest desires and vices. Shadowself exposed. The feeling that the little person inside me is shattered into pieces. Darkest self is usually hard to piece together. Fueled by emotion, passion and despair. Shattered double?
 
-Slow zoom out shot of hair floating in a glass water container, creating ripples. Lit up from below with green. 
+Close-up: Slow zoom out shot of hair floating in a glass water container, creating ripples. Lit up from below with green. 
 
-Zoom out reveals a naked girl floating on water. 
+Close-up to Wide: Zoom out reveals a naked girl floating on water. 
 
-She suddenly opens her eyes (closeup).
+Close-up Glitch Shot: She suddenly opens her eyes (closeup).
 
-She curls and stands up in the water and leaves the container.
+Medium Topshot: She curls and stands up in the water and leaves the container.
 
-Then she stands motionless in an empty dark room. Light reflecting of her wet face. Drips slowly coming down on a dusty floor.
+Telelens Shot: Then she stands motionless in an empty dark room. Light reflecting of her wet face. Drips slowly coming down on a dusty floor.
 
 Something fills the air in the dark warehouse room - an entity. Girl seems to be unaffected by its presence. Completely calm. Accepting.
 
@@ -22,7 +22,7 @@ Something fills the air in the dark warehouse room - an entity. Girl seems to be
 
 Glitch title: PHASE A: INITIATED.
 
-She drops to the floor, dust comes up.
+Slowmo Downshot: She drops to the floor, dust comes up.
 
 7 people wearing black clothes and masks enter the room and surround the body.
 
