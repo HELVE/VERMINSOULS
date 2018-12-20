@@ -6,6 +6,16 @@
 # VERMIN SOULS - VIDEO ART PROJECT
 Video art based on our darkest desires and vices. Shadowself exposed. The feeling that the little person inside me is shattered into pieces. Darkest self is usually hard to piece together. Fueled by emotion, passion and despair. Shattered double?
 
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
+
+Description.
+
+![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
+
+Description.
+
+![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
+
 # Notes
 
 Close-up: Slow zoom out shot of hair floating in a glass water container, creating ripples. Lit up from below with green. 
@@ -34,16 +44,6 @@ Cut away to closeup so we don't see the whole room.
 Wide shot, blacked people are suddenly rats that start wandering around the warehouse room.
 
 Title: PHASE B: INITIATED
-
-![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
-
-Description.
-
-![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
-
-Description.
-
-![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
 
 ### Table of Contents
 1. [Introduction.](#intro)
