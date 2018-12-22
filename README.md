@@ -72,8 +72,8 @@ Title: PHASE B: INITIATED
 
 <a name="icebox"></a>
 ### Icebox
-+ Idea_01
-+ Idea_02
++ Shotlist
++ Storyboard
 + Idea_03
 
 <a name="install"></a>
