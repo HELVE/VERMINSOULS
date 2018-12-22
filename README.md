@@ -66,9 +66,9 @@ Title: PHASE B: INITIATED
 
 <a name="issues"></a>
 ### Issues
-+ Issue_01
-+ Issue_02
-+ Issue_03
++ Visual Design
++ Narrative Meaning
++ Glitch Research
 
 <a name="icebox"></a>
 ### Icebox
