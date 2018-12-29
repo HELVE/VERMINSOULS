@@ -7,8 +7,7 @@
 > "Understanding does not cure evil, but it is a definite help, inasmuch as one can cope with a comprehensible darkness."
 > Carl Jung
 
-Ever looked at yourself in the mirror and thought the other side is the real one? 
-You are the double on the other end of the mirror.
+Ever looked in the mirror and thought the other side is more real? Ever thought the entity on the other side is in its correct spot and has more reason to live? Ever truly met yourself at the place where light and dark converge? You are the double on the other end of the mirror.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
