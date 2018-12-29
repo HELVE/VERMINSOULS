@@ -4,8 +4,8 @@
 
 <a name="intro"></a>
 # VERMIN SOULS - VIDEO ART PROJECT
-> Understanding does not cure evil, but it is a definite help, inasmuch as one can cope with a comprehensible darkness.
-> Carl Jung
+> "Understanding does not cure evil, but it is a definite help, inasmuch as one can cope with a comprehensible darkness."
+> - Carl Jung
 
 Ever looked at yourself in the mirror and thought the other side is the real one? 
 You are the double on the other end of the mirror.
