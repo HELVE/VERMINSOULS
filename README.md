@@ -10,6 +10,7 @@
 Ever looked in the mirror and thought the other side is more real? Ever thought the entity on the other side is in its correct spot and has more reason to live? Ever truly met yourself at the place where light and dark converge? You are the double on the other end of the mirror.
 
 As you progress through memory sequences - your past becomes a fog within you.
+All the light you see if from the past.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
