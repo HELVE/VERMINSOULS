@@ -6,6 +6,8 @@
 # VERMIN SOULS - VIDEO ART PROJECT
 Insert public description of the project.
 
+Vermin Souls is the double on the other end of the mirror.
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
