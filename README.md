@@ -6,7 +6,8 @@
 # VERMIN SOULS - VIDEO ART PROJECT
 Insert public description of the project.
 
-Vermin Souls is the double on the other end of the mirror.
+Ever looked at yourself in the mirror and thought the other side is the real one? 
+You are the double on the other end of the mirror.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
