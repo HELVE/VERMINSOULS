@@ -24,6 +24,9 @@ Description.
 
 # Notes
 
+Project parameters
+Time: 10min loop
+
 Video art based on our darkest desires and vices. Shadowself exposed. The feeling that the little person inside me is shattered into pieces. Darkest self is usually hard to piece together. Fueled by emotion, passion and despair. Shattered double?
 
 Close-up: Slow zoom out shot of hair floating in a glass water container, creating ripples. Lit up from below with green. 
