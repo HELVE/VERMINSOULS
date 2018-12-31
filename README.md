@@ -25,6 +25,7 @@ Description.
 # Notes
 
 Project parameters
+
 Time: 10min loop
 
 Video art based on our darkest desires and vices. Shadowself exposed. The feeling that the little person inside me is shattered into pieces. Darkest self is usually hard to piece together. Fueled by emotion, passion and despair. Shattered double?
