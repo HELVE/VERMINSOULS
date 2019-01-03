@@ -3,7 +3,6 @@
 [![BANNERTAG](/assets/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a>
-# VERMIN SOULS - VIDEO ART PROJECT
 > "Understanding does not cure evil, but it is a definite help, inasmuch as one can cope with a comprehensible darkness."
 > Carl Jung
 
