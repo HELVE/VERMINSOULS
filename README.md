@@ -13,7 +13,7 @@ Ever looked in the mirror and thought the other side is more real? Ever thought 
 As you progress through memory sequences - your past becomes a fog within you.
 All the light you see if from the past.
 
-Ever changing narrative like in original Timeshift? Modular approach to narrative. 
+Ever changing narrative like in original Timeshift? Modular approach to narrative. Tie-ins and tie-outs.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
