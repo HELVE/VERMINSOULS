@@ -55,8 +55,11 @@ Slowmo Downshot: She drops to the floor, dust comes up.
 7 people wearing black clothes and masks enter the room and surround the body.
 
 Wide shot, they start to tighten the circle.
+
 Top shot, they continue to tighten the circle. Raising muffled sound.
+
 Cut away to closeup so we don't see the whole room.
+
 Wide shot, blacked people are suddenly rats that start wandering around the warehouse room.
 
 Title: PHASE B: INITIATED
