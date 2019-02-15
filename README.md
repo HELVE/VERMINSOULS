@@ -27,7 +27,8 @@ Description.
 
 # Notes
 
-Project parameters
+
+Project parameters:
 projection 4 ways? probably not.
 
 Time: 10min loop
